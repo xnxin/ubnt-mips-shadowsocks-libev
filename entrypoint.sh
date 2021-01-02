@@ -3,15 +3,15 @@
 green="\033[0;32m"
 end="\033[0m"
 # shadowsocks version
-shadowsocks_ver=3.3.4
+shadowsocks_ver=3.3.5
 # mbedtls
-mbedtls_ver=2.6.0
+mbedtls_ver=2.25.0
 # pcre
-pcre_ver=8.43
+pcre_ver=8.44
 # libev
-libev_ver=4.25
+libev_ver=4.33
 # c-ares
-cares_ver=1.13.0
+cares_ver=1.17.1
 # set path
 prefix_path='/opt/ss-mips'
 # mips use mipel-linux-gnu, mips64 use mips64-linux-gnuabi64, default is mips
